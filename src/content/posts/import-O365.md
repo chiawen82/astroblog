@@ -2,7 +2,7 @@
 title: O365 導入
 description: "meta description"
 date: 2024-03-07T12:00:00Z
-image: "/images/posts/02.jpg"
+image: "/images/posts/01.jpg"
 categories: ["數位工具"]
 authors: ["Sophie Lin"]
 tags: ["O365", "導入"]
