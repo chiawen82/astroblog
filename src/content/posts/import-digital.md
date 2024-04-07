@@ -47,9 +47,8 @@ draft: false
 
 ## 導入步驟
 1. <a href="/import-digital-procedure">畫下現在流程</a>
-2. 找工具或是廠商
-3. 畫下導入工具之後，希望改變的流程
-4. 上線後觀察，如果不夠好，就從步驟一再執行一次
+2. <a href="/import-digital-procedure2">找工具或是廠商</a>
+3. 上線後觀察，如果不夠好，就從步驟一再執行一次
 
 ## 導入經驗分享
 <a href="/import-o365">O365 導入公司經驗分享</a>
