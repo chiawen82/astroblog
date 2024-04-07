@@ -1,7 +1,7 @@
 ---
 title: "專案經理的決策日記：贏得信任的小秘密"
 description: "meta description"
-date: 2024-03-07T12:00:00Z
+date: 2024-04-07T12:00:00Z
 image: "/images/posts/02.jpg"
 categories: ["專案管理"]
 authors: ["Sophie Lin"]
